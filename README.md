@@ -1,4 +1,12 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm ALEESHA PAUL</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 📫 How to reach me **aleeshapaul968@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <!--
 **Aleesha-tech/Aleesha-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
